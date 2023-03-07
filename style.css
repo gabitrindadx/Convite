@@ -95,13 +95,13 @@ a {
 .alert{
     color: rgb(255, 0, 0);
     font-family: 'Hind Madurai', sans-serif;
-    margin-top: 20px;  
+    margin-top: 10px;  
     margin-left: 10px; 
 }
 .text2{
     color: rgb(0, 0, 0);
     font-family: 'Hind Madurai', sans-serif;
-    margin-top: 20px;  
+    margin-top: 10px;  
     margin-left: 10px; 
 }
 
@@ -109,7 +109,7 @@ a {
     font-family: 'Hind Madurai', sans-serif;
     margin-left: 10px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 15px;
 }
 .img_insta{
